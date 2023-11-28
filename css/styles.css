@@ -437,8 +437,8 @@ body {
 
 @media (width < 700px) {
   .header__container .section__header {
-    font-size: 4rem;
-    line-height: 5rem;
+    font-size: 2rem;
+    line-height: 3rem;
   }
 
   .service__grid {
